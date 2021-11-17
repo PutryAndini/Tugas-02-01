@@ -5,7 +5,7 @@
 
 </head>
 <body>
-    <?php
+    <?php  
     $programmer_php = array (
         "Andi", "Budi", "Wati", "Gunawan", "Baco", "Becce", "Fatma"
     ); 
